@@ -6,7 +6,6 @@ func main() {
 	// const firstName string = "Yosafat"
 	// const lastName = "Rendi"
 	// const value = 1000
-
 	const (
 		firstName string = "Yosafat" //multiple declaration
 		lastName         = "Rendi"
